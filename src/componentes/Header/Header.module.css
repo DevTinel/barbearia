@@ -1,0 +1,43 @@
+.navContainer{
+  width: 100%;
+  background-color: #fff;
+  height: max-content;
+  align-items: center;
+}
+.navBar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+.logo{
+  width: 100px;
+}
+
+.tema{
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  border-radius: 20px;
+  padding: 10px 15px;
+  border: 2px solid var(--bege);
+  background-color: #fff;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.lua{
+  width: 20px;
+}
+
+.dark{
+  background-color: #252323;
+}
+
+.claro{
+  background-color: #fff;
+}
+

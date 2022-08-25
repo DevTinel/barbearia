@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins ',sans-serif;
+
+}
+
+:root{
+  /* cores  */
+  --bege:#B2987d;
+  --preto2:#252323;
+}
+img{
+  display: block;
+  max-width: 100%;
+}
+
+/* TEMA DARK */
+
+
